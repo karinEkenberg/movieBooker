@@ -1,4 +1,15 @@
+import { useEffect } from "react";
+import { Seats, SelectedSeats } from "../js/seat";
+import { AddMovies, CalculateSeatCost } from "../js/movies";
+
 function Seat(){
+    useEffect(() => {
+        Seats();
+        SelectedSeats();
+        AddMovies();
+        CalculateSeatCost();
+    }, []); 
+
     return (
         <>
         <div className="container">
