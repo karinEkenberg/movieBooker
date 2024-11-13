@@ -11,13 +11,13 @@ https://karinekenberg.github.io/movieBooker/
 
 ## Installation
 1. Clone this repository:
-```bash git clone https://github.com/karinEkenberg/movieBooker.git```
+``` git clone https://github.com/karinEkenberg/movieBooker.git```
 2. Navigate to the right folder:
-```bash cd cinema-booking-app```
+``` cd cinema-booking-app```
 3. Install dependencies:
-```bash npm install```
+``` npm install```
 4. Start the server:
-```bash npm run dev```
+``` npm run dev```
 
 ## Usage
 For now the site showcases an UI which:
@@ -45,6 +45,7 @@ There are many reasons to pick React, here are a few:
 - Speed, because of being a single-page application
 - "Easy" to learn
 - Reusable components
+
 On a more personal note, here are a few of "my" reasons:
 - I am interested in learning to build apps and came across React Native which builds on React
 - I will use it during my internship
