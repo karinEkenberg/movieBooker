@@ -1,5 +1,6 @@
 # Cinema booking app
 ![moviebookerr](https://github.com/user-attachments/assets/7eae398d-d320-40fe-a008-ed6e2aa53dd1)
+
 React project for a cinema booking system which consists of the visual aspects. This includes 
 a few components for choosing seats, selecting movie and filling booking details. However, at
 the moment the functionality is not there yet. This project is a copy of https://github.com/karinEkenberg/javascriptmovieseatbookSTART-main
